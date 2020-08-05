@@ -35,3 +35,7 @@ Here are some ideas to get you started:
   </p>
   
 - 👨‍💻 All of my projects are available  [here](https://github.com/hector-manny?tab=repositories)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **mejia.martinez2012@hotmail.es**
