@@ -23,13 +23,14 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=hector-manny" alt="hector-manny" />
    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
-   <img src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" alt="csharp" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" width="20" height="20" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
   <img src="https://img.icons8.com/color/50/000000/javascript.png" width="20" height="20" />
   <img src="https://img.icons8.com/fluent/48/000000/android-os.png" width="20" height="20" />
   <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" width="20" height="20" />
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/> 
-   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="20" height="20"/>
   
   </p>
