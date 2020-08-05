@@ -23,4 +23,5 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=hector-manny" alt="hector-manny" />
    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
+  <img scr="https://img.icons8.com/color/2x/c-sharp-logo-2.png" alt="Csharp" width="20" height="20"/>
   </p>
