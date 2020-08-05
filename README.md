@@ -45,3 +45,11 @@ Here are some ideas to get you started:
    <img src="https://github-readme-stats.vercel.app/api?username=hector-manny&show_icons=true" alt="hector-manny" />
       <img align="right" src="https://github.com/hector-manny/hector-manny/blob/master/Gifs/ahh.gif?raw=true" width="230"/>
   </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hector-martinez01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hector-martinez01/" height="20" width="20" /></a>
+  <a href="https://www.facebook.com/tomkka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tomkka" height="20" width="20" /></a>
+  <a href="https://www.instagram.com/tomkamk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" /></a>
+ <a href="https://twitter.com/T0MKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/T0MKA" height="20" width="20" /></a>
+
+</p>
