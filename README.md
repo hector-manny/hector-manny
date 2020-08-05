@@ -28,5 +28,8 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
   <img src="https://img.icons8.com/color/50/000000/javascript.png" width="20" height="20" />
   <img src="https://img.icons8.com/fluent/48/000000/android-os.png" width="20" height="20" />
+  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" width="20" height="20" />
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/> 
+   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   
   </p>
