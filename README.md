@@ -34,8 +34,13 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="20" height="20"/>
   </p>
   
+  
 - 👨‍💻 All of my projects are available  [here](https://github.com/hector-manny?tab=repositories)
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **mejia.martinez2012@hotmail.es**
+
+<p align="center"> 
+   <img src="https://github-readme-stats.vercel.app/api?username=hector-manny&show_icons=true" alt="hector-manny" />
+  </p>
