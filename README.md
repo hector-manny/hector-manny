@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hector-manny" alt="hector-manny" />
+   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/>
   </p>
