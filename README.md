@@ -43,8 +43,10 @@ Here are some ideas to get you started:
 
 <p align="center"> 
    <img src="https://github-readme-stats.vercel.app/api?username=hector-manny&theme=highcontrast&show_icons=true" alt="hector-manny" />
-  <img align="center" src="https://github.com/hector-manny/hector-manny/blob/master/Gifs/404.gif" width="330"/>
    <img align="right" src="https://github.com/hector-manny/hector-manny/blob/master/Gifs/ahh.gif?raw=true" width="230"/>
+  </p>
+  <p align="center"> 
+   <img align="center" src="https://github.com/hector-manny/hector-manny/blob/master/Gifs/404.gif" width="330"/>
   </p>
 
 <p align="center">
