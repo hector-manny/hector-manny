@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **mejia.martinez2012@hotmail.es**
 
 <p align="center"> 
-   <img src=https://github-readme-stats-1-sigma.vercel.app?username=hector-manny&theme=highcontrast&show_icons=true" alt="hector-manny" />
+   <img src=https://github-readme-stats.hector-manny.vercel.app/api?username=hector-manny&theme=highcontrast&show_icons=true" alt="hector-manny"/>
    <img align="right" src="https://github.com/hector-manny/hector-manny/blob/master/Gifs/ahh.gif?raw=true" width="230"/>
   </p>
   <p align="center"> 
