@@ -46,7 +46,7 @@ Here are some ideas to get you started:
    <img align="right" src="https://github.com/hector-manny/hector-manny/blob/master/Gifs/ahh.gif?raw=true" width="230" />
   </p>
   <p align="center"> 
-   <img align="center" src="https://github.com/hector-manny/hector-manny/blob/master/Gifs/404.gif" width="430" height="230" />
+   <img align="center" src="https://github.com/hector-manny/hector-manny/blob/master/Gifs/404.gif"  />
   </p>
 
 <p align="center">
