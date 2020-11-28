@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Hector Martinez </h1>
-<h3 align="center">A passionate Developer and Open Source contributor </h3>
+<h3 align="center">A passionate Developer <3 </h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
